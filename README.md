@@ -9,8 +9,7 @@ The entire set of objects of the training sample is divided into non-intersectin
 
 <b>1. Churn prediction </b>  
 
-Preprocessing, feature selection, model quality dependance on preprocessing
-pandas, skipy, sklearn, seaborn. 
+Preprocessing, feature selection, model quality dependance on preprocessing, pandas, skipy, sklearn, seaborn. 
 
 <b>2. Credit score </b>
 
