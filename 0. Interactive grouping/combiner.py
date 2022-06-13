@@ -1,9 +1,5 @@
 # coding: utf-8
 
-# -----------------------------------------------------------------------------
-# Autor: Mamaev Alexander <aamamaev.post@gmail.com>
-# -----------------------------------------------------------------------------
-
 import numpy as np
 import copy
 from collections import namedtuple, defaultdict
