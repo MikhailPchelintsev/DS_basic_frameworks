@@ -46,3 +46,7 @@ asyncio, python3
 <b>11. NN for Time Series </b>
 
 Application of a fully connected neural network of direct propagation to predict a large number (~6000 thousand) of time series of load on employees of Bank branches. The application of this approach made it possible to achieve a higher quality of the forecast, to reduce the time of training and the application of the model, in comparison with the approach involving the training of SARIMAX with exogenous characteristics for each series separately.
+
+<b>12. Parsing </b>
+
+BeautifulSoup, Scrapy
